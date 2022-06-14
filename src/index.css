@@ -1,0 +1,14 @@
+html,
+body,
+#root {
+  height: 100%;
+}
+
+* {
+  -webkit-tap-highlight-color: transparent;
+}
+
+:root {
+  --shadow-large: 0px 4px 16px rgba(0, 0, 0, 0.1);
+  --shadow-light: 0px 4px 16px rgba(0, 0, 0, 0.02);
+}
